@@ -33,6 +33,7 @@ Have fun!
 * GPT-based chatbot fine-tuned for bioinformatics https://ai.tinybio.cloud/chat (discussed on [Biostars](https://www.biostars.org/p/9565757/))
 * Very powerful question answering using GPT and internet searches: https://www.perplexity.ai/
 * Python framework for connecting conversational AI to bioinformatics pipelines https://github.com/biocypher/biochatter and [ChatGSE](https://chat.biocypher.org)
+* mLLMCelltype: Cell type annotation for single-cell RNA-seq using multiple LLMs https://github.com/cafferychen777/mLLMCelltype
 
 ## Prompt Engineering
 
